@@ -1,0 +1,100 @@
+f a b e c d
+f
+d
+e b f a c d
+none
+f b a c e
+b e f d
+none
+f c d
+d f b a e
+f b e
+e c d
+b a c f d
+f d a
+a b d c f
+f
+f a b
+c f d b e a
+f a e c d b
+e a f
+c d f b e a
+d f e
+f d b c e a
+b e
+b
+d c b f
+none
+e a f
+b f c a d
+c f d e
+d
+d a c b e f
+b
+a f e d
+b e
+a f
+f d c b a
+e c a
+a d
+c d
+a d f
+e d
+e c d f a b
+a e
+b c f e d
+c b e a d
+f a e b d c
+c b
+b e c a
+a c d
+e f b c a
+c d e b a
+e f
+f d b a
+e a
+c b e f
+e f
+d c
+d a b
+a c e
+f b d
+b
+f a b c d
+e c a d
+b c f e a
+a
+a c d f b
+c e f d a
+a f
+c f b
+none
+none
+a b c f
+d a e c f b
+b e f
+c a
+a f c d
+d a f c e
+a d c
+f d b a c e
+a b e
+c a
+c
+b f e a
+c a b
+c
+e c a d
+a f b c
+a f d
+e c b
+d
+c b
+e a c b
+e c
+f c e a b d
+e f b
+b c
+a c d e f
+e c a
+f e

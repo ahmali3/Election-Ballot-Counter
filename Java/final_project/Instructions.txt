@@ -1,0 +1,6 @@
+To run the program, please do the following:
+
+1) Open the project folder in intelliJ IDEA.
+2) Make sure you have the latest JDK version installed.
+3) Add the input txt file in the directory "final_project\src\cmpt383" (same directory as the final_project.java file).
+4) Run the program and enter the file name when prompted, then press enter.
